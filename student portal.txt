@@ -1,0 +1,8 @@
+# a student portal demo 
+This is a basic demo project for a "student portal demo".
+Student name: P.Likitha
+College name: Aditya degree college for womem,kakinada
+Mail: Aditya.ac.in@gmail.com
+Phone no:9704276665
+## project overview
+the student portal is a web-based application to help students manage their academy activies.
